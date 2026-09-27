@@ -174,6 +174,10 @@ Anywhere server from the phone.
 Caddy or any reverse proxy with SSL termination. See the
 [remote access guide](https://yepanywhere.com/docs/remote-access) for details.
 
+## ☁️ One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Yep%20Anywhere/)
+
 ## Why not just use the terminal?
 
 You *can* use the terminal on your phone — but monospace text is painful on a small screen, there's no file upload, no push notifications, and no way to see all your sessions at once. This gives you a proper UI while keeping everything self-hosted and running your code locally.
